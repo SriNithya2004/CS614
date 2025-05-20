@@ -1,0 +1,150 @@
+[CS614-EVALSCRIPT]: Evaluating 210050152
+[CS614-EVALSCRIPT]: Unzipping ./submissions/210050152-a1.zip
+Archive:  210050152-a1.zip
+   creating: 210050152-a1/
+  inflating: 210050152-a1/a1-spec.txt  
+  inflating: 210050152-a1/checklist.txt  
+  inflating: 210050152-a1/Main.java  
+  inflating: 210050152-a1/a1java.jj  
+  inflating: 210050152-a1/jtb.out.jj  
+  inflating: 210050152-a1/A1JavaParser.java  
+  inflating: 210050152-a1/A1JavaParserTokenManager.java  
+  inflating: 210050152-a1/TokenMgrError.java  
+  inflating: 210050152-a1/ParseException.java  
+  inflating: 210050152-a1/Token.java  
+  inflating: 210050152-a1/JavaCharStream.java  
+  inflating: 210050152-a1/A1JavaParserConstants.java  
+   creating: 210050152-a1/syntaxtree/
+  inflating: 210050152-a1/syntaxtree/Node.java  
+  inflating: 210050152-a1/syntaxtree/NodeListInterface.java  
+  inflating: 210050152-a1/syntaxtree/NodeChoice.java  
+  inflating: 210050152-a1/syntaxtree/NodeList.java  
+  inflating: 210050152-a1/syntaxtree/NodeListOptional.java  
+  inflating: 210050152-a1/syntaxtree/NodeOptional.java  
+  inflating: 210050152-a1/syntaxtree/NodeSequence.java  
+  inflating: 210050152-a1/syntaxtree/NodeToken.java  
+  inflating: 210050152-a1/syntaxtree/Goal.java  
+  inflating: 210050152-a1/syntaxtree/MainClass.java  
+  inflating: 210050152-a1/syntaxtree/TypeDeclaration.java  
+  inflating: 210050152-a1/syntaxtree/ClassDeclaration.java  
+  inflating: 210050152-a1/syntaxtree/ClassExtendsDeclaration.java  
+  inflating: 210050152-a1/syntaxtree/VarDeclaration.java  
+  inflating: 210050152-a1/syntaxtree/MethodDeclaration.java  
+  inflating: 210050152-a1/syntaxtree/FormalParameterList.java  
+  inflating: 210050152-a1/syntaxtree/FormalParameter.java  
+  inflating: 210050152-a1/syntaxtree/FormalParameterRest.java  
+  inflating: 210050152-a1/syntaxtree/Type.java  
+  inflating: 210050152-a1/syntaxtree/BooleanType.java  
+  inflating: 210050152-a1/syntaxtree/IntegerType.java  
+  inflating: 210050152-a1/syntaxtree/VoidType.java  
+  inflating: 210050152-a1/syntaxtree/Statement.java  
+  inflating: 210050152-a1/syntaxtree/Block.java  
+  inflating: 210050152-a1/syntaxtree/ReturnStatement.java  
+  inflating: 210050152-a1/syntaxtree/AssignmentStatement.java  
+  inflating: 210050152-a1/syntaxtree/FieldStoreStatement.java  
+  inflating: 210050152-a1/syntaxtree/MessageSendStatement.java  
+  inflating: 210050152-a1/syntaxtree/IfStatement.java  
+  inflating: 210050152-a1/syntaxtree/IfthenStatement.java  
+  inflating: 210050152-a1/syntaxtree/IfthenElseStatement.java  
+  inflating: 210050152-a1/syntaxtree/WhileStatement.java  
+  inflating: 210050152-a1/syntaxtree/PrintStatement.java  
+  inflating: 210050152-a1/syntaxtree/Expression.java  
+  inflating: 210050152-a1/syntaxtree/AndExpression.java  
+  inflating: 210050152-a1/syntaxtree/OrExpression.java  
+  inflating: 210050152-a1/syntaxtree/CompareExpression.java  
+  inflating: 210050152-a1/syntaxtree/NeqExpression.java  
+  inflating: 210050152-a1/syntaxtree/PlusExpression.java  
+  inflating: 210050152-a1/syntaxtree/MinusExpression.java  
+  inflating: 210050152-a1/syntaxtree/TimesExpression.java  
+  inflating: 210050152-a1/syntaxtree/DivExpression.java  
+  inflating: 210050152-a1/syntaxtree/FieldLookup.java  
+  inflating: 210050152-a1/syntaxtree/MessageSend.java  
+  inflating: 210050152-a1/syntaxtree/ExpressionList.java  
+  inflating: 210050152-a1/syntaxtree/ExpressionRest.java  
+  inflating: 210050152-a1/syntaxtree/PrimaryExpression.java  
+  inflating: 210050152-a1/syntaxtree/BaseExpression.java  
+  inflating: 210050152-a1/syntaxtree/IntegerLiteral.java  
+  inflating: 210050152-a1/syntaxtree/TrueLiteral.java  
+  inflating: 210050152-a1/syntaxtree/FalseLiteral.java  
+  inflating: 210050152-a1/syntaxtree/Identifier.java  
+  inflating: 210050152-a1/syntaxtree/ThisExpression.java  
+  inflating: 210050152-a1/syntaxtree/AllocationExpression.java  
+  inflating: 210050152-a1/syntaxtree/NotExpression.java  
+  inflating: 210050152-a1/syntaxtree/BracketExpression.java  
+   creating: 210050152-a1/visitor/
+  inflating: 210050152-a1/visitor/travelnithya2.java  
+  inflating: 210050152-a1/visitor/GJVisitor.java  
+  inflating: 210050152-a1/visitor/Visitor.java  
+  inflating: 210050152-a1/visitor/GJNoArguVisitor.java  
+  inflating: 210050152-a1/visitor/GJVoidVisitor.java  
+  inflating: 210050152-a1/visitor/GJDepthFirst.java  
+  inflating: 210050152-a1/visitor/DepthFirstVisitor.java  
+  inflating: 210050152-a1/visitor/GJNoArguDepthFirst.java  
+  inflating: 210050152-a1/visitor/GJVoidDepthFirst.java  
+  inflating: 210050152-a1/visitor/nithyavisitor.java  
+  inflating: 210050152-a1/visitor/travelnithya1.java  
+Compiled Main.java
+
+=========  Running Testcases =============
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test10.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test10.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test1.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test1.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test2.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test2.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test3.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test3.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test4.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test4.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test5.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test5.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test6.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test6.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test7.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test7.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test8.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test8.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase Test9.java:
+==========================================
+[CS614-EVALSCRIPT]: Testcase passed
+[CS614-EVALSCRIPT]: Marks for Testcase Test9.java: 1.00
+
+[CS614-EVALSCRIPT]: 210050152 got 10.00 marks.
+[CS614-EVALSCRIPT]: 210050152 Evaluation Done
