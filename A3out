@@ -1,0 +1,78 @@
+submissionID: Soupati Sri Nithya_597257_assignsubmission_file
+zipName: 210050152-a3.zip
+evalOut:
+✅ Zip file 210050152-a3.zip is valid
+✅ Successfully extracted zip
+✅ Found folder 210050152-a3 after extraction
+✅ Compiling Main.java successful, starting evaluation
+🐰 Running testcase T1
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+🐰 Running testcase T8
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+🐰 Running testcase T9
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+🐰 Running testcase T10
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+🐰 Running testcase T6
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+🐰 Running testcase T2
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+🐰 Running testcase T4
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+🐰 Running testcase T5
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+🐰 Running testcase T3
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+🐰 Running testcase T7
+  🥎 Performing Input Output check (checks whether the output of the user compiled code is the same)
+    ✅ Generated code compiled successfully performing I/O Test
+    ✅ I/O Test Passed
+  🥎 Checking conformance to target output language
+    ✅ Conformance Test Passed
+  ✅ Testcase Passed
+MARKS: 10

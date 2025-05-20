@@ -1,0 +1,392 @@
+[CS614-EVALSCRIPT]: Evaluating 210050152
+[CS614-EVALSCRIPT]: Unzipping ./submissions/210050152-a2.zip
+Archive:  210050152-a2.zip
+   creating: 210050152-a2/
+  inflating: 210050152-a2/a2java.java  
+  inflating: 210050152-a2/a2javaConstants.java  
+  inflating: 210050152-a2/a2javaTokenManager.java  
+  inflating: 210050152-a2/JavaCharStream.java  
+  inflating: 210050152-a2/jtb132.jar  
+  inflating: 210050152-a2/Main.java  
+  inflating: 210050152-a2/ParseException.java  
+  inflating: 210050152-a2/Token.java  
+  inflating: 210050152-a2/TokenMgrError.java  
+  inflating: 210050152-a2/checklist.txt  
+   creating: 210050152-a2/syntaxtree/
+  inflating: 210050152-a2/syntaxtree/WhileStatement.java  
+  inflating: 210050152-a2/syntaxtree/FormalParameterList.java  
+  inflating: 210050152-a2/syntaxtree/MethodDeclaration.java  
+  inflating: 210050152-a2/syntaxtree/NodeToken.java  
+  inflating: 210050152-a2/syntaxtree/Identifier.java  
+  inflating: 210050152-a2/syntaxtree/ArgList.java  
+  inflating: 210050152-a2/syntaxtree/IfStatement.java  
+  inflating: 210050152-a2/syntaxtree/Node.java  
+  inflating: 210050152-a2/syntaxtree/PrintStatement.java  
+  inflating: 210050152-a2/syntaxtree/NotExpression.java  
+  inflating: 210050152-a2/syntaxtree/Type.java  
+  inflating: 210050152-a2/syntaxtree/Statement.java  
+  inflating: 210050152-a2/syntaxtree/FormalParameter.java  
+  inflating: 210050152-a2/syntaxtree/ArrayAllocationExpression.java  
+  inflating: 210050152-a2/syntaxtree/AllocationExpression.java  
+  inflating: 210050152-a2/syntaxtree/AssignmentStatement.java  
+  inflating: 210050152-a2/syntaxtree/DivExpression.java  
+  inflating: 210050152-a2/syntaxtree/CompareExpression.java  
+  inflating: 210050152-a2/syntaxtree/NodeChoice.java  
+  inflating: 210050152-a2/syntaxtree/ArgRest.java  
+  inflating: 210050152-a2/syntaxtree/FormalParameterRest.java  
+  inflating: 210050152-a2/syntaxtree/ArrayAssignmentStatement.java  
+  inflating: 210050152-a2/syntaxtree/IfthenElseStatement.java  
+  inflating: 210050152-a2/syntaxtree/MessageSend.java  
+  inflating: 210050152-a2/syntaxtree/VarDeclaration.java  
+  inflating: 210050152-a2/syntaxtree/ClassExtendsDeclaration.java  
+  inflating: 210050152-a2/syntaxtree/Expression.java  
+  inflating: 210050152-a2/syntaxtree/OrExpression.java  
+  inflating: 210050152-a2/syntaxtree/NodeList.java  
+  inflating: 210050152-a2/syntaxtree/NodeListInterface.java  
+  inflating: 210050152-a2/syntaxtree/TimesExpression.java  
+  inflating: 210050152-a2/syntaxtree/ThisExpression.java  
+  inflating: 210050152-a2/syntaxtree/MinusExpression.java  
+  inflating: 210050152-a2/syntaxtree/PrimaryExpression.java  
+  inflating: 210050152-a2/syntaxtree/FieldAssignmentStatement.java  
+  inflating: 210050152-a2/syntaxtree/neqExpression.java  
+  inflating: 210050152-a2/syntaxtree/MainClass.java  
+  inflating: 210050152-a2/syntaxtree/ArrayLookup.java  
+  inflating: 210050152-a2/syntaxtree/FalseLiteral.java  
+  inflating: 210050152-a2/syntaxtree/AndExpression.java  
+  inflating: 210050152-a2/syntaxtree/NodeOptional.java  
+  inflating: 210050152-a2/syntaxtree/IntegerType.java  
+  inflating: 210050152-a2/syntaxtree/ClassDeclaration.java  
+  inflating: 210050152-a2/syntaxtree/BooleanType.java  
+  inflating: 210050152-a2/syntaxtree/Goal.java  
+  inflating: 210050152-a2/syntaxtree/PlusExpression.java  
+  inflating: 210050152-a2/syntaxtree/IfthenStatement.java  
+  inflating: 210050152-a2/syntaxtree/ArrayType.java  
+  inflating: 210050152-a2/syntaxtree/NodeListOptional.java  
+  inflating: 210050152-a2/syntaxtree/ArrayLength.java  
+  inflating: 210050152-a2/syntaxtree/Block.java  
+  inflating: 210050152-a2/syntaxtree/TrueLiteral.java  
+  inflating: 210050152-a2/syntaxtree/TypeDeclaration.java  
+  inflating: 210050152-a2/syntaxtree/IntegerLiteral.java  
+  inflating: 210050152-a2/syntaxtree/NodeSequence.java  
+   creating: 210050152-a2/visitor/
+  inflating: 210050152-a2/visitor/myvisit2.java  
+  inflating: 210050152-a2/visitor/travelnithya3.java  
+  inflating: 210050152-a2/visitor/travelnithya4.java  
+  inflating: 210050152-a2/visitor/COPYME2.java  
+  inflating: 210050152-a2/visitor/COPYME.java  
+  inflating: 210050152-a2/visitor/travelnithya1.java  
+  inflating: 210050152-a2/visitor/travelnithya2.java  
+  inflating: 210050152-a2/visitor/methodinline.java  
+  inflating: 210050152-a2/visitor/myvisit1.java  
+  inflating: 210050152-a2/visitor/GJVisitor.java  
+  inflating: 210050152-a2/visitor/ProgramCFG.java  
+  inflating: 210050152-a2/visitor/GJVoidVisitor.java  
+  inflating: 210050152-a2/visitor/GJVoidDepthFirst.java  
+  inflating: 210050152-a2/visitor/Visitor.java  
+  inflating: 210050152-a2/visitor/MethodMetadata.java  
+  inflating: 210050152-a2/visitor/GJNoArguDepthFirst.java  
+  inflating: 210050152-a2/visitor/GJNoArguVisitor.java  
+  inflating: 210050152-a2/visitor/GJDepthFirst.java  
+  inflating: 210050152-a2/visitor/DepthFirstVisitor.java  
+  inflating: 210050152-a2/visitor/Instruction.java  
+  inflating: 210050152-a2/visitor/CFGGen.java  
+  inflating: 210050152-a2/visitor/BB.java  
+Compiled Main.java
+
+=========  Running Testcases =============
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC01.java:
+==========================================
+ 1. Generated Program Compiled Successfully
+ 2. Generated Program output matches original output, proceeding to check optimizations...
+[CS614-EVALSCRIPT]: Testcase passed
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC01.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC02.java:
+==========================================
+ 1. Generated Program Compiled Successfully
+ 2. Generated Program output matches original output, proceeding to check optimizations...
+[CS614-EVALSCRIPT]: Testcase passed
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC02.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC03.java:
+==========================================
+Generated program failed to compile !!
+TC03 Failed! (generated program output mismatch) 16 
+[CS614-EVALSCRIPT]: Testcase output does not match
+TC03 Failed! BINOP: 0
+CONST: 10
+METHO: 1 ParseException: Encountered " <IDENTIFIER> "Exception "" at line 29, column 1.
+Was expecting one of:
+    "{" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    
+(i) BINOP: Total Binary operation remaining (ii) CONST: Total constants in program (iii) METHO: Total no. of method calls
+TC03 failed. See the error below for details.
+Expected output: BINOP: 0
+CONST: 10
+METHO: 1
+Obtained output: ParseException: Encountered " <IDENTIFIER> "Exception "" at line 29, column 1.
+Was expecting one of:
+    "{" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC03.java: 0
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC04.java:
+==========================================
+ 1. Generated Program Compiled Successfully
+ 2. Generated Program output matches original output, proceeding to check optimizations...
+[CS614-EVALSCRIPT]: Testcase passed
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC04.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC05.java:
+==========================================
+ 1. Generated Program Compiled Successfully
+ 2. Generated Program output matches original output, proceeding to check optimizations...
+[CS614-EVALSCRIPT]: Testcase passed
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC05.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC06.java:
+==========================================
+ 1. Generated Program Compiled Successfully
+ 2. Generated Program output matches original output, proceeding to check optimizations...
+[CS614-EVALSCRIPT]: Testcase passed
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC06.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC07.java:
+==========================================
+Generated program failed to compile !!
+ 2. Generated Program output matches original output, proceeding to check optimizations...
+[CS614-EVALSCRIPT]: Testcase output does not match
+TC07 Failed! BINOP: 3
+CONST: 6
+METHO: 1 ParseException: Encountered " <IDENTIFIER> "Exception "" at line 25, column 1.
+Was expecting one of:
+    "{" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    
+(i) BINOP: Total Binary operation remaining (ii) CONST: Total constants in program (iii) METHO: Total no. of method calls
+TC07 failed. See the error below for details.
+Expected output: BINOP: 3
+CONST: 6
+METHO: 1
+Obtained output: ParseException: Encountered " <IDENTIFIER> "Exception "" at line 25, column 1.
+Was expecting one of:
+    "{" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC07.java: 0
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC08.java:
+==========================================
+Generated program failed to compile !!
+TC08 Failed! (generated program output mismatch) 7 
+[CS614-EVALSCRIPT]: Testcase output does not match
+TC08 Failed! BINOP: 1
+CONST: 9
+METHO: 1 ParseException: Encountered " <IDENTIFIER> "Exception "" at line 36, column 1.
+Was expecting one of:
+    "{" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    
+(i) BINOP: Total Binary operation remaining (ii) CONST: Total constants in program (iii) METHO: Total no. of method calls
+TC08 failed. See the error below for details.
+Expected output: BINOP: 1
+CONST: 9
+METHO: 1
+Obtained output: ParseException: Encountered " <IDENTIFIER> "Exception "" at line 36, column 1.
+Was expecting one of:
+    "{" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC08.java: 0
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC09.java:
+==========================================
+Generated program failed to compile !!
+TC09 Failed! (generated program output mismatch) 6 
+[CS614-EVALSCRIPT]: Testcase output does not match
+TC09 Failed! BINOP: 6
+CONST: 8
+METHO: 1 ParseException: Encountered " <IDENTIFIER> "Exception "" at line 27, column 1.
+Was expecting one of:
+    "{" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    "{" ...
+    "if" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    
+(i) BINOP: Total Binary operation remaining (ii) CONST: Total constants in program (iii) METHO: Total no. of method calls
+TC09 failed. See the error below for details.
+Expected output: BINOP: 6
+CONST: 8
+METHO: 1
+Obtained output: ParseException: Encountered " <IDENTIFIER> "Exception "" at line 27, column 1.
+Was expecting one of:
+    "{" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    "{" ...
+    "if" ...
+    "if" ...
+    "while" ...
+    "System.out.println" ...
+    
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC09.java: 0
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC10.java:
+==========================================
+ 1. Generated Program Compiled Successfully
+ 2. Generated Program output matches original output, proceeding to check optimizations...
+[CS614-EVALSCRIPT]: Testcase passed
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC10.java: 1.00
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC11.java:
+==========================================
+Generated program failed to compile !!
+TC11 Failed! (generated program output mismatch) 10 
+[CS614-EVALSCRIPT]: Testcase output does not match
+TC11 Failed! BINOP: 0
+CONST: 12
+METHO: 1 BINOP: 0
+CONST: 7
+METHO: 1
+(i) BINOP: Total Binary operation remaining (ii) CONST: Total constants in program (iii) METHO: Total no. of method calls
+TC11 failed. See the error below for details.
+Expected output: BINOP: 0
+CONST: 12
+METHO: 1
+Obtained output: BINOP: 0
+CONST: 7
+METHO: 1
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC11.java: 0
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC12.java:
+==========================================
+Generated program failed to compile !!
+TC12 Failed! (generated program output mismatch) 10 
+[CS614-EVALSCRIPT]: Testcase output does not match
+TC12 Failed! BINOP: 1
+CONST: 13
+METHO: 1 BINOP: 1
+CONST: 6
+METHO: 1
+(i) BINOP: Total Binary operation remaining (ii) CONST: Total constants in program (iii) METHO: Total no. of method calls
+TC12 failed. See the error below for details.
+Expected output: BINOP: 1
+CONST: 13
+METHO: 1
+Obtained output: BINOP: 1
+CONST: 6
+METHO: 1
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC12.java: 0
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC13.java:
+==========================================
+Generated program failed to compile !!
+TC13 Failed! (generated program output mismatch) 10 
+[CS614-EVALSCRIPT]: Testcase output does not match
+TC13 Failed! BINOP: 2
+CONST: 29
+METHO: 1 BINOP: 2
+CONST: 10
+METHO: 1
+(i) BINOP: Total Binary operation remaining (ii) CONST: Total constants in program (iii) METHO: Total no. of method calls
+TC13 failed. See the error below for details.
+Expected output: BINOP: 2
+CONST: 29
+METHO: 1
+Obtained output: BINOP: 2
+CONST: 10
+METHO: 1
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC13.java: 0
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC14.java:
+==========================================
+Generated program failed to compile !!
+TC14 Failed! (generated program output mismatch) 10 
+[CS614-EVALSCRIPT]: Testcase output does not match
+TC14 Failed! BINOP: 1
+CONST: 15
+METHO: 2 BINOP: 1
+CONST: 9
+METHO: 1
+(i) BINOP: Total Binary operation remaining (ii) CONST: Total constants in program (iii) METHO: Total no. of method calls
+TC14 failed. See the error below for details.
+Expected output: BINOP: 1
+CONST: 15
+METHO: 2
+Obtained output: BINOP: 1
+CONST: 9
+METHO: 1
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC14.java: 0
+
+==========================================
+[CS614-EVALSCRIPT]: Testcase TC15.java:
+==========================================
+ 1. Generated Program Compiled Successfully
+TC15 Failed! (generated program output mismatch) 10 7
+[CS614-EVALSCRIPT]: Testcase output does not match
+TC15 Failed! BINOP: 0
+CONST: 21
+METHO: 2 BINOP: 0
+CONST: 12
+METHO: 1
+(i) BINOP: Total Binary operation remaining (ii) CONST: Total constants in program (iii) METHO: Total no. of method calls
+TC15 failed. See the error below for details.
+Expected output: BINOP: 0
+CONST: 21
+METHO: 2
+Obtained output: BINOP: 0
+CONST: 12
+METHO: 1
+---------------------------------------------------------------------
+[CS614-EVALSCRIPT]: Marks for Testcase TC15.java: 0
+
+[CS614-EVALSCRIPT]: 210050152 got 6.00 marks.
+[CS614-EVALSCRIPT]: 210050152 Evaluation Done
